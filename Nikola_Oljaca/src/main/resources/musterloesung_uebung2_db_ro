@@ -1,0 +1,6 @@
+remote_host = ppr.lehre.texttechnologylab.org
+remote_database = MusterloesungUebung2
+remote_user = user_ro
+remote_password = tibK_*QM2jabwZy&z5Jj+]C]
+remote_port = 27020
+remote_collection = speeches

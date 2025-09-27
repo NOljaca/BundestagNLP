@@ -1,0 +1,5 @@
+org/texttechnologylab/project/Nikola_Oljaca/model/Speech.class
+org/texttechnologylab/project/Nikola_Oljaca/nlp/NLPPipelineService.class
+org/texttechnologylab/project/Nikola_Oljaca/nlp/NlpMain.class
+org/texttechnologylab/project/Nikola_Oljaca/nlp/JCasConverter.class
+org/texttechnologylab/project/Nikola_Oljaca/DatabaseMigration/DatabaseConfigMigration.class
