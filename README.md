@@ -1,4 +1,4 @@
-# **ÜBUNG 4 – NLP-Analyse & Datenbankintegration**
+# **NLP-Analyse & Datenbankintegration**
 
 
 ![UML Diagram](Nikola_Oljaca/images/uebung4_uml.png)
